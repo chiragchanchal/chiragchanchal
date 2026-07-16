@@ -1,14 +1,6 @@
 <div align="center">
 
-<!-- SPIDERMAN SWING GIF - works on GitHub, sourced from Giphy CDN -->
-<img src="https://media.giphy.com/media/l4FGCymGGNTZVZwtO/giphy.gif" width="100%" height="200" style="object-fit:cover;" />
-
-<br/>
-
-<!-- NAME HEADER with Spider emoji art -->
-<h1>
-🕷️&nbsp;&nbsp;CHIRAG CHANCHAL&nbsp;&nbsp;🕷️
-</h1>
+<h1>🕸️ CHIRAG CHANCHAL 🕸️</h1>
 
 <h3>⚡ React Developer &nbsp;·&nbsp; IoT Engineer &nbsp;·&nbsp; Web3 Builder ⚡</h3>
 
@@ -16,7 +8,6 @@
 <img src="https://img.shields.io/badge/🕸️%20Friendly%20Neighborhood%20Developer-FF003C?style=for-the-badge&logoColor=white" />
 </p>
 
-<!-- Social badges - shields.io only, 100% reliable -->
 <a href="https://linkedin.com/in/chirag-chanchal-48419a2b3">
   <img src="https://img.shields.io/badge/LinkedIn-FF003C?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -34,17 +25,11 @@
 
 ---
 
-<div align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
-&nbsp;<b><i>"With great power comes great responsibility — and great code."</i></b>&nbsp;
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
-</div>
+## 🦸 *"Just your friendly neighborhood developer..."*
 
----
+> *"With great computing power comes great responsibility — to write clean code."*
 
-## 🦸 About Me
-
-I'm a **B.Tech CSE student** at **K.R. Mangalam University, Gurugram** — building interactive React web apps, hardware-integrated IoT systems, and protecting Web3 communities from threats. I write code by day and clone RF signals by night. 🕷️
+I'm a **B.Tech CSE student** at **K.R. Mangalam University, Gurugram** building interactive React web apps, hardware-integrated IoT systems, and keeping Web3 communities secure. 🕷️
 
 - 🎓 **B.Tech CSE** — K.R. Mangalam University *(Expected July 2029)*
 - 🌐 **Web3 Community Moderator** @ Technical Fantasy *(Jan 2019 – Present)*
@@ -53,7 +38,7 @@ I'm a **B.Tech CSE student** at **K.R. Mangalam University, Gurugram** — build
 
 ---
 
-## 🕸️ Web-Shooters — Tech Stack
+## 🕸️ Tech Stack — My Web-Shooters
 
 <div align="center">
 
@@ -158,6 +143,17 @@ Dynamic interactive components with advanced DOM manipulation & state management
     src="https://raw.githubusercontent.com/chiragchanchal/chiragchanchal/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chiragchanchal&show_icons=true&theme=dark&title_color=FF003C&icon_color=FF003C&text_color=FFFFFF&bg_color=0d0d0d&border_color=FF003C&border_radius=10" height="165" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragchanchal&layout=compact&theme=dark&title_color=FF003C&text_color=FFFFFF&bg_color=0d0d0d&border_color=FF003C&border_radius=10" height="165" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=chiragchanchal&theme=dark&background=0d0d0d&fire=FF003C&ring=FF003C&currStreakNum=FFFFFF&sideLabels=FF003C&dates=888888&border=FF003C" />
+
+</div>
 
 ---
 
@@ -181,11 +177,6 @@ Dynamic interactive components with advanced DOM manipulation & state management
 ---
 
 <div align="center">
-
-<!-- Spiderman hanging GIF as footer -->
-<img src="https://media.giphy.com/media/l4FGCymGGNTZVZwtO/giphy.gif" width="100%" height="120" style="object-fit:cover;" />
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=chiragchanchal&color=FF003C&style=for-the-badge&label=PROFILE+VIEWS" />
 
