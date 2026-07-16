@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=FF003C&center=true&vCenter=true&width=600&lines=🕷️+WITH+GREAT+POWER...;...COMES+GREAT+CODE!+💻;Hey+I'm+Chirag+Chanchal!;React+Dev+%7C+IoT+Engineer+%7C+Web3+Builder" alt="Typing SVG" />
+<h1>🕸️ CHIRAG CHANCHAL 🕸️</h1>
 
-<h1>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; CHIRAG CHANCHAL &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-</h1>
-
-<p>
-<img src="https://img.shields.io/badge/-%F0%9F%95%B7%EF%B8%8F%20Friendly%20Neighborhood%20Developer-FF003C?style=for-the-badge&logoColor=white" />
-</p>
+<p><b>🕷️ React Dev &nbsp;|&nbsp; IoT Engineer &nbsp;|&nbsp; Web3 Builder &nbsp;|&nbsp; B.Tech CSE</b></p>
 
 <a href="https://linkedin.com/in/chirag-chanchal-48419a2b3">
   <img src="https://img.shields.io/badge/LinkedIn-FF003C?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -27,37 +21,24 @@
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF003C&height=120&section=header&text=🕸️%20The%20Web%20Slinger%20Coder%20🕸️&fontSize=28&fontColor=ffffff&animation=fadeIn" />
-</div>
+## 🦸 *"Just your friendly neighborhood developer..."*
 
-## 🦸 About Me — *"Just your friendly neighborhood dev..."*
-
-
-
-██████╗██╗  ██╗██╗██████╗  █████╗  ██████╗
-██╔════╝██║  ██║██║██╔══██╗██╔══██╗██╔════╝
-██║     ███████║██║██████╔╝███████║██║  ███╗
-██║     ██╔══██║██║██╔══██╗██╔══██║██║   ██║
-╚██████╗██║  ██║██║██║  ██║██║  ██║╚██████╔╝
-╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
-codeDownloadCopy
 > *"With great computing power comes great responsibility — to write clean code."*
 
-I'm a **B.Tech Computer Science student** at **K.R. Mangalam University, Gurugram** building interactive web apps and hardware-integrated IoT systems. I shoot React webs by day, script Python automation by night, and occasionally clone RF signals with an ESP32 — because why not? 🕷️
+I'm a **B.Tech CSE student** at **K.R. Mangalam University, Gurugram** building interactive React web apps, hardware-integrated IoT systems, and keeping Web3 communities secure. 🕷️
 
 - 🎓 **B.Tech CSE** — K.R. Mangalam University *(Expected July 2029)*
-- 🌐 **Web3 Community Moderator** @ Technical Fantasy
-- 📍 **Gurugram, Haryana, India**
-- 🛰️ **NASA Certified** in Remote Sensing | **Intel/Microsoft AI** Certified
+- 🌐 **Web3 Community Moderator** @ Technical Fantasy *(Jan 2019 – Present)*
+- 📍 Gurugram, Haryana, India
+- 🛰️ NASA Certified | Intel/Microsoft AI Certified
 
 ---
 
-## 🕸️ My Web-Shooters — Tech Stack
+## 🕸️ Tech Stack — My Web-Shooters
 
 <div align="center">
 
-### 🔴 Frontend Arsenal
+### 🔴 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -87,7 +68,7 @@ I'm a **B.Tech Computer Science student** at **K.R. Mangalam University, Gurugra
 ### ⚡ Smart Event Dashboard
 > React · CSS · DOM Manipulation
 
-A fully responsive event management dashboard with real-time data visualization and state management.
+Responsive event management dashboard with real-time data visualization.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-FF003C?style=flat-square&logo=github)](https://github.com/chiragchanchal/Smart-Event-Dashboard)
 
@@ -97,7 +78,7 @@ A fully responsive event management dashboard with real-time data visualization 
 ### 🎓 Student Score Dashboard
 > JavaScript · HTML · CSS
 
-Interactive score tracking dashboard engineered for seamless complex data display.
+Interactive score tracking dashboard for complex data display.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-FF003C?style=flat-square&logo=github)](https://github.com/chiragchanchal/Student-score-dashboard)
 
@@ -109,17 +90,17 @@ Interactive score tracking dashboard engineered for seamless complex data displa
 ### ⛅ Async Weather Tracker
 > Async JS · REST APIs · HTML
 
-Real-time weather app fetching live third-party API data without any page refreshes.
+Real-time weather app — live API data, zero page refreshes.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-FF003C?style=flat-square&logo=github)](https://github.com/chiragchanchal/async-weather-tracker-web)
 
 </td>
 <td width="50%">
 
-### 🪙 ESP32 Crypto Tracker (Hardware!)
+### 🪙 ESP32 Crypto Tracker
 > ESP32 · C/C++ · Wi-Fi APIs
 
-Physical Bitcoin price tracker — live crypto data displayed on real hardware via secure API endpoints.
+Physical Bitcoin price tracker displaying live data on real hardware.
 
 </td>
 </tr>
@@ -129,7 +110,7 @@ Physical Bitcoin price tracker — live crypto data displayed on real hardware v
 ### 📡 Sub-GHz RF Signal Cloner
 > CC1101 · Python · RF/IR
 
-Portable wireless multi-tool capturing and replaying radio frequency & IR signals. 🔴⚫
+Portable wireless multi-tool capturing & replaying RF and IR signals.
 
 </td>
 <td width="50%">
@@ -137,7 +118,7 @@ Portable wireless multi-tool capturing and replaying radio frequency & IR signal
 ### ✅ Todo App + 🧠 JS Quiz
 > JavaScript · HTML · DOM
 
-Dynamic interactive web components using advanced DOM manipulation and state management.
+Dynamic interactive components with advanced state management.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-FF003C?style=flat-square&logo=github)](https://github.com/chiragchanchal/TODO-APP)
 
@@ -157,13 +138,13 @@ Dynamic interactive web components using advanced DOM manipulation and state man
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragchanchal&theme=dark&background=0d0d0d&fire=FF003C&ring=FF003C&currStreakNum=FFFFFF&sideLabels=FF003C&dates=888888&border=FF003C" />
+<img src="https://streak-stats.demolab.com/?user=chiragchanchal&theme=dark&background=0d0d0d&fire=FF003C&ring=FF003C&currStreakNum=FFFFFF&sideLabels=FF003C&dates=888888&border=FF003C" />
 
 </div>
 
 ---
 
-## 🏆 Certifications — *Villain-Proof Training*
+## 🏆 Certifications
 
 | 🏅 Certification | 🏢 Issuer |
 |---|---|
@@ -174,22 +155,12 @@ Dynamic interactive web components using advanced DOM manipulation and state man
 
 ---
 
-## 📡 Web3 Field Work
-
-**Web3 Community Moderator** @ *Technical Fantasy* *(Jan 2019 – Present)*
-- 🛡️ Directing and moderating a large-scale online community, blocking spam & mitigating phishing attacks
-- 🤖 Implementing automated moderation protocols to protect user data security at scale
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF003C&height=100&section=footer&animation=fadeIn" />
-
-<img src="https://komarev.com/ghpvc/?username=chiragchanchal&color=FF003C&style=for-the-badge&label=🕷️+PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=chiragchanchal&color=FF003C&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-**🕷️ "Anyone can wear the mask — but it takes a coder to build the web." 🕷️**
+**🕷️ "Anyone can wear the mask — but it takes a coder to build the web." 🕸️**
 
 </div>
