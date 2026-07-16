@@ -2,8 +2,8 @@ name: 🕷️ Spiderman Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:           # lets you run it manually too
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
+    permissions:
+      contents: write   # ← THIS was missing — fixes exit code 128
+
     steps:
       - name: Generate Spiderman Snake Animation
         uses: Platane/snk/svg-only@v3
@@ -21,7 +24,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
