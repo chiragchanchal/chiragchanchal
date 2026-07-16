@@ -147,20 +147,21 @@ Dynamic interactive components with advanced DOM manipulation & state management
 
 ---
 
-## 🕷️ Spider-Sense Stats
+## 🕷️ Spider-Sense Stats — *He's Crawling Your Commits...*
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chiragchanchal&show_icons=true&theme=dark&title_color=FF003C&icon_color=FF003C&text_color=FFFFFF&bg_color=0d0d0d&border_color=FF003C&border_radius=10" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragchanchal&layout=compact&theme=dark&title_color=FF003C&text_color=FFFFFF&bg_color=0d0d0d&border_color=FF003C&border_radius=10" height="165" />
-
-<br/><br/>
-
-<!-- FIXED streak URL: demolab.com replaces dead herokuapp -->
-<img src="https://streak-stats.demolab.com/?user=chiragchanchal&theme=dark&background=0d0d0d&fire=FF003C&ring=FF003C&currStreakNum=FFFFFF&sideLabels=FF003C&dates=888888&border=FF003C" />
-
-</div>
+<table>
+  <tr>
+    <td valign="top" width="75%">
+      <img src="https://github-readme-stats.vercel.app/api?username=chiragchanchal&show_icons=true&theme=dark&title_color=FF003C&icon_color=FF003C&text_color=FFFFFF&bg_color=0d0d0d&border_color=FF003C&border_radius=10" width="100%" />
+      <br/><br/>
+      <img src="https://streak-stats.demolab.com/?user=chiragchanchal&theme=dark&background=0d0d0d&fire=FF003C&ring=FF003C&currStreakNum=FFFFFF&sideLabels=FF003C&dates=888888&border=FF003C" width="100%" />
+    </td>
+    <td valign="bottom" width="25%" align="center">
+      <!-- Spiderman crawling UP the contribution box -->
+      <img src="https://media.giphy.com/media/l4FGn9ANR4pWl5sCk/giphy.gif" width="120" alt="Spiderman crawling" />
+    </td>
+  </tr>
+</table>
 
 ---
 
