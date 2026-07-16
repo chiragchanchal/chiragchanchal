@@ -149,23 +149,15 @@ Dynamic interactive components with advanced DOM manipulation & state management
 
 ## 🕷️ Spider-Sense Stats
 
-<table>
-  <tr>
-    <td valign="top" width="70%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=chiragchanchal&show_icons=true&theme=dark&title_color=FF003C&icon_color=FF003C&text_color=FFFFFF&bg_color=0d0d0d&border_color=FF003C&border_radius=10" />
-      <br/><br/>
-      <img width="100%" src="https://streak-stats.demolab.com/?user=chiragchanchal&theme=dark&background=0d0d0d&fire=FF003C&ring=FF003C&currStreakNum=FFFFFF&sideLabels=FF003C&dates=888888&border=FF003C" />
-    </td>
-    <td valign="bottom" width="30%" align="center">
-      <!-- Spiderman crawling — served from raw.githubusercontent.com (GitHub-native, always loads) -->
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Climbing%20Light%20Skin%20Tone.png" width="100" alt="Spiderman Crawling" />
-      <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Climbing%20Medium-Light%20Skin%20Tone.png" width="100" alt="Spiderman Crawling 2" />
-      <br/><br/>
-      <b>🕷️ Crawling your commits...</b>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/chiragchanchal/chiragchanchal/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/chiragchanchal/chiragchanchal/output/github-contribution-grid-snake.svg" />
+  <img alt="🕷️ Spiderman eating my contributions"
+    src="https://raw.githubusercontent.com/chiragchanchal/chiragchanchal/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 ---
 
