@@ -1,167 +1,103 @@
-<div align="center">
+# 🕸️ CHIRAG CHANCHAL 🕸️
 
-<h1>🕸️ CHIRAG CHANCHAL 🕸️</h1>
+### ⚡ React Developer · IoT Engineer · Web3 Builder ⚡
 
-<h3>⚡ React Developer &nbsp;·&nbsp; IoT Engineer &nbsp;·&nbsp; Web3 Builder ⚡</h3>
+[![🕷️ Friendly Neighborhood Developer](https://img.shields.io/badge/🕷️_Friendly_Neighborhood_Developer-FF003C?style=for-the-badge&logoColor=white)](https://github.com/chiragchanchal)
 
-<p>
-<img src="https://img.shields.io/badge/🕸️%20Friendly%20Neighborhood%20Developer-FF003C?style=for-the-badge&logoColor=white" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF003C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-chanchal)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF003C)](mailto:your-email@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-FF003C?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF003C)](https://github.com/chiragchanchal)
 
-<a href="https://linkedin.com/in/chirag-chanchal-48419a2b3">
-  <img src="https://img.shields.io/badge/LinkedIn-FF003C?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:chiragchanchal2345@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF003C"/>
-</a>
-<a href="https://linktr.ee/chiragchanchal">
-  <img src="https://img.shields.io/badge/Linktree-FF003C?style=for-the-badge&logo=linktree&logoColor=white"/>
-</a>
-<a href="https://github.com/chiragchanchal">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF003C"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF003C&center=true&vCenter=true&random=false&width=650&lines=Just+your+friendly+neighborhood+developer...;With+great+computing+power+comes+great+responsibility.;Building+React+apps+·+IoT+systems+·+Web3+security" alt="Typing SVG" />
 
-</div>
-
----
-
-## 🦸 *"Just your friendly neighborhood developer..."*
-
-> *"With great computing power comes great responsibility — to write clean code."*
+## 🦸 *With great computing power comes great responsibility — to write clean code.*
 
 I'm a **B.Tech CSE student** at **K.R. Mangalam University, Gurugram** building interactive React web apps, hardware-integrated IoT systems, and keeping Web3 communities secure. 🕷️
-
-- 🎓 **B.Tech CSE** — K.R. Mangalam University *(Expected July 2029)*
-- 🌐 **Web3 Community Moderator** @ Technical Fantasy *(Jan 2019 – Present)*
-- 📍 Gurugram, Haryana, India
-- 🛰️ NASA Certified · Intel/Microsoft AI Certified
 
 ---
 
 ## 🕸️ Tech Stack — My Web-Shooters
 
-<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,python,cpp&theme=dark" alt="Web Skills" />
+</a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,linux,kali,vscode,figma,vite,docker,md&theme=dark" alt="Tools" />
+</a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=solidity,mysql,mongodb,firebase,fastapi,express,arduino,raspberrypi&theme=dark" alt="Backend & Hardware" />
+</a>
 
 ### 🔴 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### ⚫ Backend & Scripting
-![Python](https://img.shields.io/badge/Python%202.7%20%26%203.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF003C?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python%202.7%20%23%203.x-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF003C?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🕷️ Tools & Hardware
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+### 🕷️ Tools, Web3 & Hardware
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
 ## 🏙️ Projects — *Swinging Through the City*
 
-<table>
-<tr>
-<td width="50%">
+| 🕸️ Project | 🦸 What it does |
+| --- | --- |
+| 🔗 **[KizunaQR](https://github.com/chiragchanchal/KizunaQR)** <br> `HTML` | QR-based connection platform — fast, responsive, and built for real-world sharing. |
+| 🕵️ **[NullRisk](https://github.com/chiragchanchal/NullRisk)** <br> `TypeScript` | Risk analysis engine built to surface threats before they strike. |
+| 🌑 **[TACET — Dark Web Threat Actor De-anonymization](https://github.com/chiragchanchal/TACET-Dark-Web-Threat-Actor-De-anonymization)** <br> `JavaScript` | Automated threat actor de-anonymization engine fusing NLP stylometry, blockchain transaction clustering, and knowledge graphs to link fragmented dark web personas to clearweb identities. |
+| 💳 **[VeilPay](https://github.com/Veilpayapp/VeilPay)** <br> `TypeScript` | Web3 payments platform — private, fast, and secure value transfer. |
+| 🧩 **[VeilPay Extension](https://github.com/chiragchanchal/VeilpayExtension)** <br> `TypeScript` | Browser extension bringing VeilPay's payment rails directly to your web experience. |
+| 📊 **[DeFi Terminal Capstone](https://github.com/chiragchanchal/defi-terminal-capstone)** <br> `JavaScript` | DeFi analytics terminal for tracking on-chain positions and market data in one command center. |
 
-### ⚡ Smart Event Dashboard
-> React · CSS · DOM Manipulation
-
-Responsive event management dashboard with real-time data visualization.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-FF003C?style=flat-square&logo=github&logoColor=white)](https://github.com/chiragchanchal/Smart-Event-Dashboard)
-
-</td>
-<td width="50%">
-
-### 🎓 Student Score Dashboard
-> JavaScript · HTML · CSS
-
-Interactive score tracking dashboard for complex data display.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-FF003C?style=flat-square&logo=github&logoColor=white)](https://github.com/chiragchanchal/Student-score-dashboard)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⛅ Async Weather Tracker
-> Async JS · REST APIs · HTML
-
-Real-time weather app — live API data, zero page refreshes.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-FF003C?style=flat-square&logo=github&logoColor=white)](https://github.com/chiragchanchal/async-weather-tracker-web)
-
-</td>
-<td width="50%">
-
-### 🪙 ESP32 Crypto Tracker
-> ESP32 · C/C++ · Wi-Fi APIs
-
-Physical Bitcoin price tracker displaying live data on real hardware via secure APIs.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📡 Sub-GHz RF Signal Cloner
-> CC1101 · Python · RF/IR
-
-Portable wireless multi-tool capturing & replaying radio frequency and IR signals.
-
-</td>
-<td width="50%">
-
-### ✅ Todo App + 🧠 JS Quiz
-> JavaScript · HTML · DOM
-
-Dynamic interactive components with advanced DOM manipulation & state management.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-FF003C?style=flat-square&logo=github&logoColor=white)](https://github.com/chiragchanchal/TODO-APP)
-
-</td>
-</tr>
-</table>
+> 🕷️ *"Every project is another web I've swung through on the way up."*
 
 ---
 
 ## 🕷️ Spider-Sense Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/chiragchanchal/chiragchanchal/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/chiragchanchal/chiragchanchal/output/github-contribution-grid-snake.svg" />
-  <img alt="🕷️ Spiderman eating my contributions"
-    src="https://raw.githubusercontent.com/chiragchanchal/chiragchanchal/output/github-contribution-grid-snake.svg" />
-</picture>
+![Spiderman eating my contributions](https://raw.githubusercontent.com/chiragchanchal/chiragchanchal/output/github-contribution-grid-snake.svg)
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragchanchal&layout=compact&theme=dark&title_color=FF003C&text_color=FFFFFF&bg_color=0d0d0d&border_color=FF003C&border_radius=10)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragchanchal&layout=compact&theme=dark&title_color=FF003C&text_color=FFFFFF&bg_color=0d0d0d&border_color=FF003C&border_radius=10" height="165" />
+![](https://github-readme-stats.vercel.app/api?username=chiragchanchal&show_icons=true&theme=dark&title_color=FF003C&text_color=FFFFFF&icon_color=FF003C&bg_color=0d0d0d&border_color=FF003C&border_radius=10)
 
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragchanchal&layout=compact&theme=dark&title_color=FF003C&text_color=FFFFFF&bg_color=0d0d0d&border_color=FF003C&border_radius=10" height="165" />
+![](https://streak-stats.demolab.com?user=chiragchanchal&theme=dark&background=0d0d0d&fire=FF003C&ring=FF003C&currStreakLabel=FF003C&sideLabels=FF003C&dates=888888&border=FF003C)
 
-<br/><br/>
+![](https://github-profile-trophy.vercel.app/?username=chiragchanchal&theme=darkhub&no-frame=true&no-bg=true&column=4)
 
-<img src="https://streak-stats.demolab.com/?user=chiragchanchal&theme=dark&background=0d0d0d&fire=FF003C&ring=FF003C&currStreakNum=FFFFFF&sideLabels=FF003C&dates=888888&border=FF003C" />
-
-</div>
+![](https://komarev.com/ghpvc/?username=chiragchanchal&color=FF003C&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
 ## 🏆 Certifications
 
 | 🏅 Certification | 🏢 Issuer |
-|---|---|
+| --- | --- |
 | Cyber Job / Data Analytics / Tech Job Simulation | 🔵 Deloitte Australia |
 | AI for All | 🔷 Intel / Microsoft |
 | SOAR: AI to be Aware · AI to Aspire · AI for Educators | 🔷 Intel / Microsoft |
@@ -172,17 +108,11 @@ Dynamic interactive components with advanced DOM manipulation & state management
 ## 📡 Web3 Field Work
 
 **Web3 Community Moderator** @ *Technical Fantasy* *(Jan 2019 – Present)*
-- 🛡️ Moderating a large-scale community, blocking spam & neutralizing phishing attacks
-- 🤖 Implementing automated protocols to protect user data security at scale
 
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=chiragchanchal&color=FF003C&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<br/><br/>
+![](https://komarev.com/ghpvc/?username=chiragchanchal&color=FF003C&style=for-the-badge&label=PROFILE+VIEWS)
 
 **🕷️ "Anyone can wear the mask — but it takes a coder to build the web." 🕸️**
 
-</div>
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.png" width="100%" alt="Spider-Man web bottom banner" />
